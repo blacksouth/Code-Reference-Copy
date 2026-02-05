@@ -178,6 +178,7 @@ A: 插件支持 IntelliJ IDEA 2023.1 及以上版本（包括 Community 和 Ulti
 
 ## 联系方式
 
-- Email: support@jiuji.com
-- Website: https://www.jiuji.com
+- Email: 873525217@qq.com
+- 
+
 
